@@ -1,0 +1,107 @@
+  <ropa>
+      <articulo>
+        <nombre>Pantalon</nombre>
+        <imagen url="https://ss251.liverpool.com.mx/xl/1006246911.jpg"></imagen>
+        <tipo>Recto</tipo>
+        <precio>700</precio>
+        <descipcion>Pantalon levis</descipcion>
+        <marca>Levis</marca>
+        <talla>
+            <tamano>CH</tamano>
+            <tamano>M</tamano>
+            <tamano>G</tamano>
+            <tamano>XL</tamano>
+            <tamano>XLL</tamano>
+        </talla>
+        <color>Azul</color>
+        <sexo>M</sexo>
+    </articulo>
+    <articulo>
+        <nombre>Blusa</nombre>
+        <imagen url="https://i.pinimg.com/originals/7c/a4/8f/7ca48f1316874f9f93740fed387531c0.jpg"></imagen>
+        <tipo>Polo</tipo>
+        <precio>700</precio>
+        <descipcion>Blusa polo </descipcion>
+        <marca>Polo</marca>
+        <talla>
+            <tamano>CH</tamano>
+            <tamano>M</tamano>
+            <tamano>G</tamano>
+            <tamano>XL</tamano>
+            <tamano>XLL</tamano>
+        </talla>
+        <color>Negro</color>
+        <sexo>F</sexo>
+    </articulo>
+    <articulo>
+        <nombre>Shorts</nombre>
+        <imagen url="https://www.fiorentina.com.mx/media/catalog/product/cache/8b94a8b38b1be3084279dc804d1dc0a8/4/1/4127532_1_1.jpg"></imagen>
+        <tipo>C</tipo>
+        <precio>999</precio>
+        <descipcion>Shorts 3 franjas</descipcion>
+        <marca>FS</marca>
+        <talla>
+            <tamano>CH</tamano>
+            <tamano>M</tamano>
+            <tamano>G</tamano>
+            <tamano>XL</tamano>
+            <tamano>XLL</tamano>
+        </talla>
+        <color>Negro</color>
+        <sexo>F</sexo>
+    </articulo>
+         <articulo>
+        <nombre>Playera</nombre>
+        <imagen url="https://http2.mlstatic.com/D_NQ_NP_963205-MLM47260927263_082021-O.jpg"></imagen>
+        <tipo>Manga corta</tipo>
+        <precio>7500</precio>
+        <descipcion>Playera manga corta</descipcion>
+        <marca>Nautica</marca>
+        <talla>
+            <tamano>CH</tamano>
+            <tamano>M</tamano>
+            <tamano>G</tamano>
+            <tamano>XL</tamano>
+            <tamano>XLL</tamano>
+        </talla>
+        <color>Negro</color>
+        <sexo>M</sexo>
+    </articulo>
+    <articulo>
+        <nombre>Camisa</nombre>
+        <imagen url="https://image.dhgate.com/0x0s/f2-albu-g9-M00-61-27-rBVaVVyGCdSAMjTHAAI5rdm-p-A582.jpg/4xl-camisas-hombre-manga-larga-4-colores.jpg"></imagen>
+        <tipo>Manga larga</tipo>
+        <precio>1700</precio>
+        <descipcion>Camisa de vestir manga larga</descipcion>
+        <marca>Levis</marca>
+        <talla>
+            <tamano>CH</tamano>
+            <tamano>M</tamano>
+            <tamano>G</tamano>
+            <tamano>XL</tamano>
+            <tamano>XLL</tamano>
+        </talla>
+        <color>Carmesi</color>
+        <sexo>M</sexo>
+    </articulo>
+    <articulo>
+        <nombre>Chamarra</nombre>
+        <imagen url="https://http2.mlstatic.com/D_NQ_NP_762068-MLM31368758333_072019-O.jpg"></imagen>
+        <tipo>Trucer</tipo>
+        <precio>700</precio>
+        <descipcion>Chamarra azul trucker levis</descipcion>
+        <marca>Levis</marca>
+        <talla>
+            <tamano>CH</tamano>
+            <tamano>M</tamano>
+            <tamano>G</tamano>
+            <tamano>XL</tamano>
+            <tamano>XLL</tamano>
+        </talla>
+        <color>Negro</color>
+        <sexo>M</sexo>
+    </articulo>
+  </ropa>
+        
+
+
